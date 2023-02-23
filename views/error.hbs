@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        {{> head}}
+        <link rel="icon" type="image/gif" href="/images/favicon.png">
+        <link rel="stylesheet" href="stylesheets/font-awesome.min.css">
+        <link rel="stylesheet" href="stylesheets/style.css">
+        <link rel="stylesheet" href="stylesheets/flickity.min.css">
+        <script src="javascripts/modernizr.custom.min.js"></script>
+    </head>
+    <body class="">
+        {{> header}}
+        <article class="main-content">
+            <section class="faqs">
+                <div class="inner">
+                    <div class="faq-list ani-sfb" data-delay="0.1" data-speed="0.5" data-animation="short-from-bottom">
+                        <ul>
+                            <h4>404 {{{__ "Page Not Found"}}}</h4>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+        </article>
+        {{> footer}}
+        <input type="hidden" id="site-base" value="faq" />
+        <script src="javascripts/jquery-1.12.0.min.js"></script>
+        <script src="javascripts/main.js"></script>
+    </body>
+</html>

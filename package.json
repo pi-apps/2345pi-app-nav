@@ -1,0 +1,20 @@
+{
+  "name": "2345Pi-APP-NAV",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-session": "^1.17.3",
+    "hbs": "^4.2.0",
+    "http-errors": "~1.6.3",
+    "i18n": "^0.15.1",
+    "morgan": "~1.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
