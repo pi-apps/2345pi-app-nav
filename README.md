@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.2345pi.com/"><img height="100px" alt="logo" src="https://raw.githubusercontent.com/pi-apps/2345pi-app-nav/master/public/images/logo.svg"/></a>
+  <a href="https://www.2345pi.com/"><img height="100px" alt="logo" src="https://2345pi.com/images/logo.svg"/></a>
   <p><em>2345Pi APP NAV</em></p>
 </div>
 
