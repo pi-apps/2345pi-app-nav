@@ -1,6 +1,6 @@
 {
   "name": "2345Pi-APP-NAV",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "private": true,
   "main": "server.js",
