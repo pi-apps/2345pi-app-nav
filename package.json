@@ -1,20 +1,22 @@
 {
   "name": "2345Pi-APP-NAV",
-  "version": "0.0.0",
+  "version": "0.0.1",
+  "description": "",
   "private": true,
+  "main": "server.js",
+  "type": "module",
   "scripts": {
-    "start": "nodemon ./bin/www"
+    "start": "nodemon server.js"
   },
+  "author": "",
+  "license": "BSD",
   "dependencies": {
-    "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
-    "ejs": "~2.6.1",
-    "express": "~4.16.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^6.0.7",
     "express-session": "^1.17.3",
-    "hbs": "^4.2.0",
-    "http-errors": "~1.6.3",
     "i18n": "^0.15.1",
-    "morgan": "~1.9.1",
-    "nodemon": "^2.0.20"
+    "nodemon": "^2.0.20",
+    "pi-backend": "^0.1.3"
   }
 }

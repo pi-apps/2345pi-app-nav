@@ -1,0 +1,137 @@
+<body class="home">
+    <header class="homepage-header" id="homepage-header">
+        <a class="github-fork-ribbon top-right fixed" href="https://github.com/pi-apps/2345pi-app-nav" title="Fork 2345Pi">Fork 2345Pi</a>
+        {{> main_nav}}
+        <!-- <canvas id="demo"></canvas> -->
+        <iframe class="animation" id="iframe-animation"></iframe>
+        <i class="valign"></i>
+        <div class="welcome">
+            <div class="inner">
+                <img src="images/blank.gif" alt="2345Pi Logo" class="Pi2345Pi-logo" style="background-image:url(images/logo.svg)" />
+                <h1>APP Nav</h1>
+                <h1>PI NETWORK</h1>
+                <h4>{{{__ "Join"}}} WEB3.0</h4>
+                <a href="https://github.com/pi-apps" target="_blank" class="button fixed">{{{__ "Learn"}}}{{{__ "More"}}}</a>
+            </div>
+        </div>
+        <iframe class="counter" src="https://ghbtns.com/github-btn.html?user=pi-apps&repo=2345pi-app-nav&type=star&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+    </header>
+    {{> header}}
+    <article class="main-content">
+        <section class="brand-logos">
+            <p class="big-text">{{{__ "Some"}}}{{{__ "Open source"}}}{{{__ "Applications"}}}</p>
+            <div class="inner">
+                <div class="mask">
+                    <div style="background-image:url(/)" class="logo"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="features">
+            <div class="row">
+                <div class="col">
+                    <span class="num">01</span>
+                    <h3 class="underline">有效聚合</h3>
+                    <h6>Web3.0将对用户生成的内容信息进行整合，使得内容信息的特征性更加明显，便于检索。</h6>
+                </div>
+                <div class="col">
+                    <span class="num">02</span>
+                    <h3 class="underline">普适性</h3>
+                    <h6>Web3.0的网络模式将实现不同终端的兼容，从PC互联网到WAP手机，PDA，机顶盒，专用终端，不只应用在互联网这一单一终端上。</h6>
+                </div>
+                <div class="col">
+                    <span class="num">03</span>
+                    <h3 class="underline">数字新技术</h3>
+                    <h6>Web3.0将建立可信的SNS,可管理的VoIP与IM,可控的Blog/Vlog/Wiki，实现数字通信与信息处理、网络与计算、媒体内容与业务智能、传播与管理、艺术与人文的有序有效结合和融会贯通。</h6>
+                </div>
+            </div>
+            <div class="devices">
+                <div class="device desktop" data-delay="0">
+                    <img src="/images/devices/device-desktop.png" alt="Desktop" />
+                    <canvas id="device-desktop-canvas"></canvas>
+                </div>
+                <div class="device ipad" data-delay="0.15">
+                    <img src="/images/devices/device-ipad.png" alt="iPad" />
+                    <canvas id="device-ipad-canvas"></canvas>
+                </div>
+                <div class="device iphone" data-delay="0.45">
+                    <img src="/images/devices/device-iphone.png" alt="iPhone" />
+                    <canvas id="device-iphone-canvas"></canvas>
+                </div>
+                <div class="device phone" data-delay="0.75">
+                    <img src="/images/devices/device-phone.png" alt="Phone" />
+                    <canvas id="device-phone-canvas"></canvas>
+                </div>
+                <div class="device laptop" data-delay="0.3">
+                    <img src="/images/devices/device-laptop.png" alt="Laptop" />
+                    <canvas id="device-laptop-canvas"></canvas>
+                </div>
+                <div class="device tablet" data-delay="0.6">
+                    <img src="/images/devices/device-tablet.png" alt="Tablet" />
+                    <canvas id="device-tablet-canvas"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <section class="projects">
+            <div class="inner">
+
+                <h2 data-delay="0" data-speed="0.5" data-animation="short-from-bottom" class="underline ani-sfb">{{{__ "Open source"}}}{{{__ "Applications"}}}</h2>
+            </div>
+            <div class="project-list">
+
+                <div class="project ani-lfr" data-delay="0.3" data-speed="0.35" data-animation="long-from-right">
+                    <a href="https://latin-chain.com/" target="_blank">
+                        <div class="thumbnail" style="background-image:url(/images/latin-chain.png)"></div>
+                        <div class="description">
+                            <h5>latin-chain</h5>
+                            <p class="big-text">该应用程序使Pioneers能够使用Pi SDK的身份验证和支付功能玩游戏,2021派黑客马拉松获胜之一。</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="project ani-lfr" data-delay="0.5" data-speed="0.35" data-animation="long-from-right">
+                    <a href="https://internetspeed.top" target="_blank">
+                        <div class="thumbnail" style="background-image:url(/images/Internet-Speed.png)"></div>
+                        <div class="description">
+                            <h5>Internet Speed</h5>
+                            <p class="big-text">一个定制的速度测试网页，用于测量您的互联网速度。可选出最优线路。</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="project ani-lfr" data-delay="0.7" data-speed="0.35" data-animation="long-from-right">
+                    <a href="https://www.piiq.network/" target="_blank">
+                        <div class="thumbnail" style="background-image:url(/images/Door-for-Pi.png)"></div>
+                        <div class="description">
+                            <h5>Door for Pi</h5>
+                            <p class="big-text">Door for Pi是派区块链的分析工具，可以自定义趋势和模式。重点分析恒星共识协议,并为Pi先驱提供数据统计</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="project ani-lfr" data-delay="0.9" data-speed="0.35" data-animation="long-from-right">
+                    <a href="https://piapp.news/" target="_blank">
+                        <div class="thumbnail" style="background-image:url(/images/News-for-Pi.png)"></div>
+                        <div class="description">
+                            <h5>News for Pi</h5>
+                            <p class="big-text">一个实用的Pi Network综合Web3平台,涵盖内容信息、生态统计、数据跟踪等。</p>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+            <div class="button-center">
+                <a href="/" class="button outline">{{{__ "More"}}}{{{__ "Open source"}}}{{{__ "Applications"}}}</a>
+            </div>
+        </section>
+
+        <section class="support features-list get-started">
+        </section>
+
+    </article>
+    {{> footer}}
+    <input type="hidden" id="site-base" value="home" />
+    <script src="javascripts/jquery-1.12.0.min.js"></script>
+    <script src="javascripts/main.js"></script>
+</body>

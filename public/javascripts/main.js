@@ -1,4 +1,3 @@
-
 jQuery(document).ready(function($) {
 
 	var site = {
@@ -437,7 +436,7 @@ jQuery(document).ready(function($) {
 	site.init();
 
 	$(document).ready(function(){
-        if(document.location.href=="http://127.0.0.1:3010/"){
+        if(document.location.href=="https://www.2345pi.com/"){
             $("#home").addClass("current");
             $("#home_m").addClass("current");
         }
