@@ -2,8 +2,8 @@
   <a href="https://www.2345pi.com/"><img height="100px" alt="logo" src="https://2345pi.com/images/logo.svg"/></a>
   <p><em>2345Pi APP NAV</em></p>
 </div>
-# 云服务器可直接做派节点！！！<br>
 
+# 云服务器可直接做派节点！！！<br>
 # 更多信息请查看2345pi论坛官网.<br>
 
 # 已发布派全自动节点搭建及维护应用程序！！！
