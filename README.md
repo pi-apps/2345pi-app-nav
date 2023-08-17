@@ -3,8 +3,8 @@
   <p><em>2345Pi APP NAV</em></p>
 </div>
 
-# 云服务器可直接做派节点！！！<br>
-# 更多信息请查看2345pi论坛官网.Linux节点运行展示<br>
+# 云服务器可直接做派节点！！！ Linux做派节点<br>
+# 更多信息请查看2345pi论坛官网.云服务器Linux节点运行展示<br>
 <div align="center">
   <img alt="logo" src="https://github.com/pi-apps/2345pi-app-nav/blob/main/public/images/pi-linux-1.png"/></a>
   <img alt="logo" src="https://github.com/pi-apps/2345pi-app-nav/blob/main/public/images/pi-linux-2.png"/></a>
