@@ -4,7 +4,7 @@
 </div>
 
 # 云服务器可直接做派节点！！！<br>
-# 更多信息请查看2345pi论坛官网.<br>
+# 更多信息请查看2345pi论坛官网.Linux节点运行展示<br>
 <div align="center">
   <img alt="logo" src="https://github.com/pi-apps/2345pi-app-nav/blob/main/public/images/pi-linux-1.png"/></a>
   <img alt="logo" src="https://github.com/pi-apps/2345pi-app-nav/blob/main/public/images/pi-linux-2.png"/></a>
@@ -12,7 +12,7 @@
 
 
 
-# 已发布本地电脑派全自动节点搭建及维护应用程序！！！
+# 同时已发布本地电脑派全自动节点搭建及维护应用程序！！！
 ## pi全自动节点安装，无需您准备公网，只要普通电脑正常上网即可，一键搭建，轻松省力，看得见的算力收益触手可及。
 ## QQ群：455385103，或者访问下面的demo网站获取联系方式
 
